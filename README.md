@@ -1,4 +1,4 @@
-<h1>simpleCahte</h1>
+<h1>simpleChat</h1>
 
 1단계. 채팅 프로그램
 
